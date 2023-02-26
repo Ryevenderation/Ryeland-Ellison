@@ -1,11 +1,23 @@
 # Ryeland Ellison
-`See a need, fill a need!` - Big Weld
+`"You can shine no matter what you're made of!"` - Big Weld
+----------------------------------------------------------------------------------------------------
 
+---
 ## Projects
-I am a project
+---
+This section contains a brief overview of all of the notable projects that I have either completed  
+or am currently working on. Most of these include software and firmware projects. 
 
+### FEMA 
+
+---
 ## Qualifications
-I have all the qualifications
+---
+### Experience: 
 
+### Examples:
+
+---
 ## Personal Development
+---
 I AM personally developed
