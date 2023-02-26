@@ -1,6 +1,7 @@
 # Ryeland Ellison
 `"You can shine no matter what you're made of!"` - Big Weld
 ----------------------------------------------------------------------------------------------------
+![](WoolyRyeland.jpg)
 
 ---
 ## Projects
